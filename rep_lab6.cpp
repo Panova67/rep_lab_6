@@ -21,7 +21,7 @@ int main() {
         cout << "Roots are real and different." << endl;
         cout << "Root 1 = " << root1 << endl;
         cout << "Root 2 = " << root2 << endl;
-        //second-2
+        //second-2: change 2 in second
     } else if (discriminant == 0) {
         root1 = -b / (2 * a);
         cout << "Roots are real and same." << endl;
@@ -61,7 +61,7 @@ char op;
             cout << "Error! operator is not correct";
             break;
     }
-    //third-4
+    //third-4: change 2 in second
 
     return 0;
 }
