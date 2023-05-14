@@ -6,7 +6,7 @@
 using namespace std;
 //main-3:
 
-//main-4:
+//main-4: change 1 in second
 int main() {
     double a, b, c, discriminant, root1, root2;
     cout << "Enter coefficients a, b and c: ";
@@ -15,7 +15,7 @@ int main() {
     
     //----------second area-----------
     if (discriminant > 0) {
-        //second-1
+        //second-1: change 1 in second
         root1 = (-b + sqrt(discriminant)) / (2 * a);
         root2 = (-b - sqrt(discriminant)) / (2 * a);
         cout << "Roots are real and different." << endl;
