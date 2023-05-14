@@ -1,10 +1,10 @@
 //----------main area-----------
 #include <iostream>
-//main-1: change 1 in master
+//main-1: 
 #include <cmath>
-//main-2: change 2 in master
+//main-2: 
 using namespace std;
-//main-3: change 3 in master
+//main-3: 
 
 //main-4:
 int main() {
@@ -41,12 +41,12 @@ char op;
     cin >> op;
     cout << "Enter two operands: ";
     cin >> num1 >> num2;
-    //third-1
+    //third-1: change 1 in third
     switch (op) {
         case '+':
             cout << num1 + num2;
             break;
-            //third-2: change 3 in master
+            //third-2
         case '-':
             cout << num1 - num2;
             break;
