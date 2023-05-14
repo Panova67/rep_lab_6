@@ -26,7 +26,7 @@ int main() {
         root1 = -b / (2 * a);
         cout << "Roots are real and same." << endl;
         cout << "Root 1 = Root 2 = " << root1 << endl;
-        //second-3
+        //second-3: change 3 in third
     } else {
         cout << "Roots are complex and different." << endl;
         cout << "Root 1 = (-" << b << " + i" << sqrt(-discriminant) << ") / " << 2*a << endl;
@@ -56,7 +56,7 @@ char op;
         case '/':
             cout << num1 / num2;
             break;
-            //third-3
+            //third-3: change 3 in third
         default:
             cout << "Error! operator is not correct";
             break;
