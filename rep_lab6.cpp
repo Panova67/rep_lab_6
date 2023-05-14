@@ -6,7 +6,7 @@
 using namespace std;
 //main-3: change 3 in master
 
-//main-4:
+//main-4: change 4 in master //second.change 1 
 int main() {
     double a, b, c, discriminant, root1, root2;
     cout << "Enter coefficients a, b and c: ";
