@@ -26,7 +26,7 @@ int main() {
         root1 = -b / (2 * a);
         cout << "Roots are real and same." << endl;
         cout << "Root 1 = Root 2 = " << root1 << endl;
-        //second-3
+        //second-3: change 3 in second
     } else {
         cout << "Roots are complex and different." << endl;
         cout << "Root 1 = (-" << b << " + i" << sqrt(-discriminant) << ") / " << 2*a << endl;
