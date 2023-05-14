@@ -4,7 +4,7 @@
 #include <cmath>
 //main-2: change 2 in master
 using namespace std;
-//main-3:
+//main-3: change 3 in master
 
 //main-4:
 int main() {
@@ -46,7 +46,7 @@ char op;
         case '+':
             cout << num1 + num2;
             break;
-            //third-2
+            //third-2: change 3 in master
         case '-':
             cout << num1 - num2;
             break;
